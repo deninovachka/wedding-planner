@@ -89,6 +89,17 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The user can update event details.
 - The calendar displays the scheduled dates clearly.
 
+### SCRUM-11 — Manage Wedding Guests
+
+**User story:** As a couple planning a wedding, I want to manage my wedding guest list so that I can keep track of the people invited to our wedding.
+
+**Acceptance criteria:**
+- The user can add guests to the guest list.
+- The user can view the list of guests.
+- The user can update guest details.
+- The user can remove guests from the list.
+- The guest count reflects the current guest list.
+  
 ## Development Workflow
 
 Each development task is linked to a Jira work item. Branches are created for individual tasks, changes are committed with the relevant Jira key, and pull requests are used to merge changes into the main branch.
