@@ -99,6 +99,17 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The user can update guest details.
 - The user can remove guests from the list.
 - The guest count reflects the current guest list.
+
+  ### SCRUM-12 — Manage Wedding Suppliers
+
+**User story:** As a couple planning a wedding, I want to manage wedding suppliers so that I can keep track of the services and people involved in our wedding.
+
+**Acceptance criteria:**
+- The user can record supplier details.
+- The user can view the supplier list.
+- The user can update supplier information.
+- The user can remove suppliers from the list.
+- Supplier information is organised clearly for reference.
   
 ## Development Workflow
 
