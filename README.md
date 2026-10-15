@@ -110,6 +110,17 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The user can update supplier information.
 - The user can remove suppliers from the list.
 - Supplier information is organised clearly for reference.
+
+### SCRUM-13 — Track Wedding Progress
+
+**User story:** As a couple planning a wedding, I want to track wedding preparation progress so that I can understand how much work has been completed and what still needs attention.
+
+**Acceptance criteria:**
+- The user can view the total number of wedding tasks.
+- The user can see how many tasks are completed.
+- The user can identify tasks that are still outstanding.
+- Progress information is updated when task statuses change.
+- The progress summary is clear and easy to understand.
   
 ## Development Workflow
 
