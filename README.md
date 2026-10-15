@@ -1,20 +1,22 @@
-Wedding Planner
+# Wedding Planner
 
--Project Overview
+## Project Overview
 
 Wedding Planner is a web application designed to help couples plan and organise their wedding in one place.
+
 The application brings together essential wedding planning activities, including task management, budget tracking, calendar organisation, guest management, supplier management and wedding day scheduling.
 
--Target Users
+## Target Users
 
 The primary users are couples who are organising their own wedding and need a simple way to manage preparations, expenses, guests and important dates.
 
--Problem Statement
+## Problem Statement
 
 Planning a wedding involves many tasks, deadlines, expenses and people. Managing this information across separate notes, spreadsheets and calendars can be time-consuming and confusing.
+
 Wedding Planner aims to centralise this information and help users stay organised throughout the planning process.
 
--Core Features
+## Core Features
 
 - Create and manage a wedding plan
 - Manage wedding preparation tasks
@@ -27,10 +29,10 @@ Wedding Planner aims to centralise this information and help users stay organise
 - Record wedding expenses
 - Create a wedding day schedule
 
--Project Management
+## Project Management
 
 The project is managed using Jira and follows the Scrum framework. Work is organised into Epics, Stories, Tasks, Bugs and Subtasks, with Stories estimated using Story Points and distributed across two sprints.
 
--Project Status
+## Project Status
 
-This repository is being developed as part of a software processes coursework project.
+This repository is being developed as part of a software processes coursework project.a software processes coursework project.
