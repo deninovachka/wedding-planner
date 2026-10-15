@@ -46,3 +46,14 @@ This story is the baseline for the Wedding Planner project. It represents the co
 ## Development Workflow
 
 Each development task is linked to a Jira work item. Branches are created for individual tasks, changes are committed with the relevant Jira key, and pull requests are used to merge changes into the main branch.
+## Testing Approach
+
+The core Wedding Planner features will be checked against their expected behaviour.
+
+- Verify that a wedding plan can be created and saved.
+- Check that wedding tasks can be added and displayed.
+- Verify that budget totals match recorded expenses.
+- Check that the guest count matches the guest list.
+- Verify that wedding dates and the day schedule are displayed correctly.
+
+Testing results and identified defects should be documented in Jira.
