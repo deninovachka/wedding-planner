@@ -67,3 +67,17 @@ The Jira project is connected to the GitHub repository to link development work 
 - Pull requests include the Jira issue key in their titles.
 - Merged pull requests are visible in the Jira issue development panel.
 - Changes are merged into `main` through pull requests.
+
+## Bug: Wedding Budget Calculation
+
+**Jira issue:** SCRUM-20
+
+**Problem:** The total wedding budget may be calculated incorrectly.
+
+**Expected behaviour:** The displayed total should equal the sum of all recorded wedding expenses.
+
+**Test cases:**
+- Check the total when no expenses have been added.
+- Add one expense and verify the total.
+- Add multiple expenses and verify their sum.
+- Edit or remove an expense and check that the total updates correctly.
