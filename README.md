@@ -81,3 +81,17 @@ The Jira project is connected to the GitHub repository to link development work 
 - Add one expense and verify the total.
 - Add multiple expenses and verify their sum.
 - Edit or remove an expense and check that the total updates correctly.
+
+- ## Bug: Wedding Guest Count
+
+**Jira issue:** SCRUM-21
+
+**Problem:** The displayed guest count may not match the guest list.
+
+**Expected behaviour:** The total guest count should match the number of guests recorded in the wedding guest list.
+
+**Test cases:**
+- Check the count when the guest list is empty.
+- Add one guest and verify the count.
+- Add multiple guests and compare the count with the list.
+- Remove a guest and verify that the count updates correctly.
