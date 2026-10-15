@@ -121,6 +121,17 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The user can identify tasks that are still outstanding.
 - Progress information is updated when task statuses change.
 - The progress summary is clear and easy to understand.
+
+### SCRUM-14 — View Wedding Dashboard
+
+**User story:** As a couple planning a wedding, I want to view a wedding dashboard so that I can see the most important wedding planning information in one place.
+
+**Acceptance criteria:**
+- The dashboard displays an overview of wedding planning tasks.
+- The dashboard displays wedding budget information.
+- The dashboard shows guest and supplier information.
+- The dashboard displays important dates and upcoming deadlines.
+- Information is organised clearly and is easy to understand.
   
 ## Development Workflow
 
