@@ -132,6 +132,18 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The dashboard shows guest and supplier information.
 - The dashboard displays important dates and upcoming deadlines.
 - Information is organised clearly and is easy to understand.
+
+### SCRUM-15 — Manage Wedding Expenses
+
+**User story:** As a couple planning a wedding, I want to record and manage wedding expenses so that I can track our spending and keep our wedding budget up to date.
+
+**Acceptance criteria:**
+- The user can record an expense with a description and amount.
+- The user can view a list of recorded expenses.
+- The user can edit expense details.
+- The user can remove an expense.
+- The total expenses are calculated correctly.
+- The user can compare total expenses with the planned wedding budget.
   
 ## Development Workflow
 
