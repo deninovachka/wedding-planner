@@ -43,6 +43,22 @@ This repository is being developed as part of a software processes coursework pr
 
 This story is the baseline for the Wedding Planner project. It represents the core functionality that allows a couple to create a wedding plan and start organising their wedding. It is estimated at 3 Story Points.
 
+## Story: Create Wedding Plan
+
+**Jira issue:** SCRUM-7
+
+**User story:** As a couple planning a wedding, I want to create a wedding plan so that I can organise the main details of our wedding in one place.
+
+**Acceptance criteria:**
+- The user can enter the wedding name or title.
+- The user can enter the wedding date and location.
+- The user can save the wedding plan details.
+- The saved details can be viewed again.
+
+**Estimate:** 3 Story Points.
+
+**Baseline story:** This story establishes the starting point for the core Wedding Planner functionality.
+
 ## Development Workflow
 
 Each development task is linked to a Jira work item. Branches are created for individual tasks, changes are committed with the relevant Jira key, and pull requests are used to merge changes into the main branch.
