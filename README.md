@@ -35,4 +35,4 @@ The project is managed using Jira and follows the Scrum framework. Work is organ
 
 ## Project Status
 
-This repository is being developed as part of a software processes coursework project.a software processes coursework project.
+This repository is being developed as part of a software processes coursework project.
