@@ -95,3 +95,17 @@ The Jira project is connected to the GitHub repository to link development work 
 - Add one guest and verify the count.
 - Add multiple guests and compare the count with the list.
 - Remove a guest and verify that the count updates correctly.
+
+## Bug: Wedding Task Order
+
+**Jira issue:** SCRUM-23
+
+**Problem:** Wedding tasks may be displayed in the wrong order.
+
+**Expected behaviour:** Wedding tasks should be displayed in the order defined by their scheduled dates or selected sorting criteria.
+
+**Test cases:**
+- Add tasks with different scheduled dates and verify their order.
+- Check that tasks with earlier dates appear before later tasks when sorting by date.
+- Change a task's scheduled date and verify that the order updates.
+- Check that tasks remain correctly ordered after refreshing the view.
