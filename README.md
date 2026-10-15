@@ -79,6 +79,16 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The user can view the budget and recorded costs.
 - The user can compare costs against the available budget.
 
+### SCRUM-10 — Manage Wedding Calendar
+
+**User story:** As a couple planning a wedding, I want to organise wedding dates and events in a calendar so that I can keep track of important deadlines and appointments.
+
+**Acceptance criteria:**
+- The user can record important wedding dates.
+- The user can view upcoming events and deadlines.
+- The user can update event details.
+- The calendar displays the scheduled dates clearly.
+
 ## Development Workflow
 
 Each development task is linked to a Jira work item. Branches are created for individual tasks, changes are committed with the relevant Jira key, and pull requests are used to merge changes into the main branch.
