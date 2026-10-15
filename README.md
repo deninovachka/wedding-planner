@@ -39,13 +39,9 @@ This repository is being developed as part of a software processes coursework pr
 
 ## Baseline Story
 
-**SCRUM-7 – Create Wedding Plan**
+### SCRUM-7 - Create Wedding Plan
 
 This story is the baseline for the Wedding Planner project. It represents the core functionality that allows a couple to create a wedding plan and start organising their wedding. It is estimated at 3 Story Points.
-
-## Story: Create Wedding Plan
-
-**Jira issue:** SCRUM-7
 
 **User story:** As a couple planning a wedding, I want to create a wedding plan so that I can organise the main details of our wedding in one place.
 
@@ -54,8 +50,6 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The user can enter the wedding date and location.
 - The user can save the wedding plan details.
 - The saved details can be viewed again.
-
-**Estimate:** 3 Story Points.
 
 **Baseline story:** This story establishes the starting point for the core Wedding Planner functionality.
 
@@ -100,7 +94,7 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The user can remove guests from the list.
 - The guest count reflects the current guest list.
 
-  ### SCRUM-12 — Manage Wedding Suppliers
+### SCRUM-12 — Manage Wedding Suppliers
 
 **User story:** As a couple planning a wedding, I want to manage wedding suppliers so that I can keep track of the services and people involved in our wedding.
 
@@ -145,7 +139,7 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The total expenses are calculated correctly.
 - The user can compare total expenses with the planned wedding budget.
 
-  ### SCRUM-16 — Manage Wedding Day Schedule
+### SCRUM-16 — Manage Wedding Day Schedule
 
 **User story:** As a couple planning a wedding, I want to create and manage a wedding day schedule so that the day's events take place in an organised order.
 
@@ -155,9 +149,11 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The user can view events in chronological order.
 - The user can update or remove scheduled events.
 - The schedule clearly displays event times and details.
+
 ## Development Workflow
 
-Each development task is linked to a Jira work item. Branches are created for individual tasks, changes are committed with the relevant Jira key, and pull requests are used to merge changes into the main branch.
+Each development branch is linked to a Jira work item. Branches are created for individual Jira tickets, commit messages include the relevant Jira key, and pull requests are used to merge changes into the main branch.
+
 ## Testing Approach
 
 The core Wedding Planner features will be checked against their expected behaviour.
@@ -180,9 +176,8 @@ The Jira project is connected to the GitHub repository to link development work 
 - Merged pull requests are visible in the Jira issue development panel.
 - Changes are merged into `main` through pull requests.
 
-## Bug: Wedding Budget Calculation
-
-**Jira issue:** SCRUM-20
+## Bugs
+### SCRUM-20 — Wedding Budget Calculation
 
 **Problem:** The total wedding budget may be calculated incorrectly.
 
@@ -194,9 +189,7 @@ The Jira project is connected to the GitHub repository to link development work 
 - Add multiple expenses and verify their sum.
 - Edit or remove an expense and check that the total updates correctly.
 
-- ## Bug: Wedding Guest Count
-
-**Jira issue:** SCRUM-21
+### SCRUM-21 — Wedding Guest Count
 
 **Problem:** The displayed guest count may not match the guest list.
 
@@ -208,9 +201,7 @@ The Jira project is connected to the GitHub repository to link development work 
 - Add multiple guests and compare the count with the list.
 - Remove a guest and verify that the count updates correctly.
 
-## Bug: Wedding Task Order
-
-**Jira issue:** SCRUM-23
+### SCRUM-23 — Wedding Task Order
 
 **Problem:** Wedding tasks may be displayed in the wrong order.
 
