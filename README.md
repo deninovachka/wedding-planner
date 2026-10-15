@@ -59,6 +59,16 @@ This story is the baseline for the Wedding Planner project. It represents the co
 
 **Baseline story:** This story establishes the starting point for the core Wedding Planner functionality.
 
+### SCRUM-8 — Manage Wedding Tasks
+
+**User story:** As a couple planning a wedding, I want to manage wedding preparation tasks so that I can keep track of the work that needs to be completed.
+
+**Acceptance criteria:**
+- The user can add wedding preparation tasks.
+- The user can view the list of tasks.
+- The user can update task details.
+- The user can mark tasks as completed.
+
 ## Development Workflow
 
 Each development task is linked to a Jira work item. Branches are created for individual tasks, changes are committed with the relevant Jira key, and pull requests are used to merge changes into the main branch.
