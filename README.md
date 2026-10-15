@@ -144,7 +144,17 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The user can remove an expense.
 - The total expenses are calculated correctly.
 - The user can compare total expenses with the planned wedding budget.
-  
+
+  ### SCRUM-16 — Manage Wedding Day Schedule
+
+**User story:** As a couple planning a wedding, I want to create and manage a wedding day schedule so that the day's events take place in an organised order.
+
+**Acceptance criteria:**
+- The user can add events to the wedding day schedule.
+- The user can specify the time and description of each event.
+- The user can view events in chronological order.
+- The user can update or remove scheduled events.
+- The schedule clearly displays event times and details.
 ## Development Workflow
 
 Each development task is linked to a Jira work item. Branches are created for individual tasks, changes are committed with the relevant Jira key, and pull requests are used to merge changes into the main branch.
