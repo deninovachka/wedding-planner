@@ -69,6 +69,16 @@ This story is the baseline for the Wedding Planner project. It represents the co
 - The user can update task details.
 - The user can mark tasks as completed.
 
+### SCRUM-9 — Manage Wedding Budget
+
+**User story:** As a couple planning a wedding, I want to manage my wedding budget so that I can monitor planned costs and avoid overspending.
+
+**Acceptance criteria:**
+- The user can set a total wedding budget.
+- The user can record planned costs.
+- The user can view the budget and recorded costs.
+- The user can compare costs against the available budget.
+
 ## Development Workflow
 
 Each development task is linked to a Jira work item. Branches are created for individual tasks, changes are committed with the relevant Jira key, and pull requests are used to merge changes into the main branch.
