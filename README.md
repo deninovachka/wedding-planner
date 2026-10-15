@@ -36,3 +36,13 @@ The project is managed using Jira and follows the Scrum framework. Work is organ
 ## Project Status
 
 This repository is being developed as part of a software processes coursework project.
+
+## Baseline Story
+
+**SCRUM-7 – Create Wedding Plan**
+
+This story is the baseline for the Wedding Planner project. It represents the core functionality that allows a couple to create a wedding plan and start organising their wedding. It is estimated at 3 Story Points.
+
+## Development Workflow
+
+Each development task is linked to a Jira work item. Branches are created for individual tasks, changes are committed with the relevant Jira key, and pull requests are used to merge changes into the main branch.
