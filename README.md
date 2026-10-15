@@ -57,3 +57,13 @@ The core Wedding Planner features will be checked against their expected behavio
 - Verify that wedding dates and the day schedule are displayed correctly.
 
 Testing results and identified defects should be documented in Jira.
+
+## Jira and GitHub Integration
+
+The Jira project is connected to the GitHub repository to link development work with Jira issues.
+
+- Branches use their corresponding Jira issue keys.
+- Commit messages include the Jira issue key.
+- Pull requests include the Jira issue key in their titles.
+- Merged pull requests are visible in the Jira issue development panel.
+- Changes are merged into `main` through pull requests.
